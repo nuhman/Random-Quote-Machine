@@ -1,0 +1,55 @@
+#
+h1 {
+    color: white;
+    font - family: Impact,
+    Haettenschweiler,
+    'Arial Narrow Bold',
+    sans - serif;
+    font - size: 55 px;
+    text - decoration: underline;
+    font - weight: bold;
+}
+body {
+    background: rgb(84, 145, 123);
+}
+.well {
+    width: 50 % ;
+    margin - top: 10 % ;
+    margin - left: 27 % ;
+    background: white;
+    border - color: black;
+}#
+bt1 {
+    float: right;
+    transition: all linear 0.2 s;
+
+}#
+bt1: hover {
+    background: rgb(0, 150, 0);
+    transition: all linear 0.2 s;
+
+}#
+bt2 {
+    background: #4099FF;
+    opacity: 0.7;
+    transition:all linear 0.2s;
+}
+# bt2: hover {
+        opacity: 1;
+        transition: all linear 0.2 s;
+    }
+    body.WhatisWhat {
+        transition: all linear 0.4 s;
+    }
+    .trans {
+        transition: all linear 0.8 s;
+    }
+    .quote - text {
+        font - weight: bold;
+        font - size: 25 px;
+        font - family: 'Kaushan Script', cursive;
+    }#
+    p2 {
+        float: right;
+        display: block;
+    }
